@@ -1,6 +1,6 @@
 ﻿public class Task
 {
-    public string name { get; set; }
-    public string desc { get; set; }
-    public long timestamp { get; set; }
+    public string nameTask { get; set; }
+    public string descriptionTask { get; set; }
+    public long time { get; set; }
 }

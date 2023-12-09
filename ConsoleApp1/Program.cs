@@ -52,23 +52,23 @@
     {
         List<string> words = new List<string>();
         string word = Console.ReadLine();
-        string shortword = word;
-        string longword = word;
+        string shortWord = word;
+        string longWord = word;
         while (word != "")
         {
             words.Add(word);
-            if (word.Length < shortword.Length)
+            if (word.Length < shortWord.Length)
             {
-                shortword = word;
+                shortWord = word;
             }
-            if (word.Length > longword.Length)
+            if (word.Length > longWord.Length)
             {
-                longword = word;
+                longWord = word;
             }
             word = Console.ReadLine();
         }
         
-        Console.WriteLine($"Самое короткое слово: {shortword}, самое длинное слово: {longword}");
+        Console.WriteLine($"Самое короткое слово: {shortWord}, самое длинное слово: {longWord}");
     }
     */
     

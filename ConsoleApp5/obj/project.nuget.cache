@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "d2qrP/dLP2c0MhEaxkwToM0p6L9r99+Qd/gtmbtx74UvOYnymUTMfbrvCDZKiBcDb+Jdw7s8W0vWT63OqcJVww==",
+  "dgSpecHash": "qdUhiJcBCjFGhapLJUbltCVw/g/+9Zttmv4CVq3FWXe1FNkrw2uvAkpIR9L4//h9JrWgOUsxxe/hTIeYqr/gog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gr622_koial\\RiderProjects\\ConsoleApp1\\ConsoleApp5\\ConsoleApp5.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\riman\\RiderProjects\\practica\\ConsoleApp5\\ConsoleApp5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riman\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\riman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\riman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\riman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
